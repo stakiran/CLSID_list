@@ -1,0 +1,100 @@
+DefaultLocation
+Biometrics
+Power Options
+Taskbar
+NVIDIA Control Panel
+Taskbar and Start Menu
+Credential Manager
+Install New Programs
+Set User Defaults
+Fusion Cache
+Manage Wireless Networks
+Network
+Computer
+All Control Panel Items
+Printers
+Workspaces Center
+Search
+Help and Support
+Run...
+E-mail
+Set Program Access and Defaults
+Upgrade to Windows 10
+Upgrade to Windows 10
+Control Panel
+Bluetooth Devices
+Sync Center Conflict Folder
+Sync Setup Folder
+Show Desktop
+Window Switcher
+Portable Devices
+Windows Update
+Windows Sidebar Properties
+System Restore
+Windows Firewall
+Phone and Modem Control Panel
+Java
+Control Panel command object for Start menu and desktop
+Speech Recognition
+Mobility Center Control Panel
+User Accounts
+Region and Language
+Portable Media Devices
+Recycle Bin
+Windows Features
+HomeGroup Control Panel
+Mouse Control Panel
+Folder Options
+Network Connections
+Sync Results Folder
+Keyboard Control Panel
+Device Manager
+CardSpace
+Performance Information and Tools
+User Accounts
+Programs and Features
+Tablet PC Settings Control Panel
+Briefcase
+Remote Printers
+Mobile Broadband Profile Settings Editor
+File Backup Index
+Indexing Options Control Panel
+Network and Sharing Center
+Parental Controls
+Network Connections
+AutoPlay
+Sync Center Folder
+System Recovery
+Infrared
+Internet Options
+Device Center
+Color Management
+Backup And Restore
+System
+Action Center CPL
+Sync Results Delegate Folder
+Microsoft Windows Font Folder
+Web フォルダ
+Display
+Troubleshooting
+Getting Started
+Text to Speech Control Panel
+Administrative Tools
+Add Network Place
+Ease of Access
+CInfoTipShellExt Class
+Portable Devices Menu
+Windows Defender
+Date and Time Control Panel
+Sync Center Conflict Delegate Folder
+Default Programs command object for Start menu
+Network Map
+Windows SideShow
+Sensors
+Games Explorer
+All Tasks
+Personalization Control Panel
+Computers and Devices
+Sync Setup Delegate Folder
+Sound Control Panel
+Pen and Touch Control Panel
